@@ -34,7 +34,7 @@
 
 ```yaml
 name: Codevex78
-role: Software Developer
+role: AI Software Engineer
 focus:
   - Backend Development
   - Data Structures & Algorithms
